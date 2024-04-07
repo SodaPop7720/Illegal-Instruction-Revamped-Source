@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="32xmenu.png" width="60" height="637">
+  <SubTexture name="32xmenu (1).gif" x="0" y="547"  width="57" height="90" frameX="-23" frameY="-19" frameWidth="111" frameHeight="132"/>
+  <SubTexture name="32xmenu (2).gif" x="0" y="183"  width="58" height="91" frameX="-22" frameY="-18" frameWidth="111" frameHeight="132"/>
+  <SubTexture name="32xmenu (3).gif" x="0" y="92"  width="59" height="91" frameX="-21" frameY="-18" frameWidth="111" frameHeight="132"/>
+  <SubTexture name="32xmenu (4).gif" x="0" y="0"  width="60" height="92" frameX="-20" frameY="-17" frameWidth="111" frameHeight="132"/>
+  <SubTexture name="32xmenu (5).gif" x="0" y="365"  width="57" height="91" frameX="-23" frameY="-18" frameWidth="111" frameHeight="132"/>
+  <SubTexture name="32xmenu (6).gif" x="0" y="456"  width="56" height="91" frameX="-24" frameY="-18" frameWidth="111" frameHeight="132"/>
+  <SubTexture name="32xmenu (7).gif" x="0" y="274"  width="58" height="91" frameX="-22" frameY="-18" frameWidth="111" frameHeight="132"/>
+</TextureAtlas>

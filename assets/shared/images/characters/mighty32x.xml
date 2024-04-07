@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="mighty32x.png" width="139" height="379">
+  <SubTexture name="mightyup0000" x="65" y="0"  width="40" height="42" frameX="-14" frameY="-10" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightyup0001" x="0" y="152"  width="40" height="41" frameX="-14" frameY="-11" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightyupmiss0001" x="0" y="0"  width="32" height="52" frameX="-14" frameY="-0" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightyupmiss0000" x="0" y="52"  width="27" height="52" frameX="-14" frameY="-0" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightyright0000" x="76" y="42"  width="34" height="40" frameX="-13" frameY="-12" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightyright0001" x="105" y="0"  width="34" height="40" frameX="-14" frameY="-13" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightyrightmiss0000" x="35" y="98"  width="51" height="40" frameX="-13" frameY="-12" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightyrightmiss0001" x="27" y="52"  width="49" height="46" frameX="-7" frameY="-7" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightydown0000" x="31" y="228"  width="33" height="33" frameX="-15" frameY="-19" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightydown0001" x="0" y="344"  width="35" height="35" frameX="-15" frameY="-17" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightydownmiss0000" x="32" y="0"  width="33" height="44" frameX="-15" frameY="-19" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightydownmiss0001" x="0" y="104"  width="35" height="48" frameX="-15" frameY="-4" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightyidle0000" x="0" y="307"  width="30" height="37" frameX="-15" frameY="-15" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightyidle0001" x="0" y="270"  width="31" height="37" frameX="-15" frameY="-15" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightyidle0002" x="0" y="232"  width="31" height="38" frameX="-15" frameY="-14" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightyleft0000" x="30" y="307"  width="29" height="35" frameX="-8" frameY="-17" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightyleft0001" x="31" y="193"  width="28" height="35" frameX="-9" frameY="-17" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightyleftmiss0000" x="40" y="138"  width="28" height="35" frameX="-9" frameY="-17" frameWidth="64" frameHeight="64"/>
+  <SubTexture name="mightyleftmiss0001" x="0" y="193"  width="31" height="39" frameX="-6" frameY="-17" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+{
+	"storyName": "So many souls..",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "Chaotix",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"32x",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Next Level",
+			"32x",
+			[
+				206,
+				20,
+				13
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "32x"
+}

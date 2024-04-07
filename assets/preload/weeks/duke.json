@@ -1,0 +1,25 @@
+{
+	"storyName": "So many souls..",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "Chaotix",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"duke",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Breakout",
+			"duke",
+			[
+				206,
+				20,
+				13
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Duke"
+}

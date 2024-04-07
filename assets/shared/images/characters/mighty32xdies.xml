@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="mighty32xdies.png" width="256" height="1128">
+  <SubTexture name="frame0000" x="0" y="748"  width="62" height="76" frameX="-88" frameY="-104" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="frame0001" x="0" y="824"  width="62" height="76" frameX="-88" frameY="-104" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="frame0002" x="0" y="900"  width="62" height="76" frameX="-88" frameY="-104" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="frame0003" x="0" y="976"  width="60" height="76" frameX="-88" frameY="-104" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="frame0004" x="0" y="1052"  width="56" height="76" frameX="-88" frameY="-104" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="frame0005" x="0" y="670"  width="64" height="78" frameX="-92" frameY="-102" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="frame0006" x="0" y="506"  width="80" height="82" frameX="-76" frameY="-98" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="frame0007" x="0" y="588"  width="80" height="82" frameX="-76" frameY="-98" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="frame0008" x="0" y="406"  width="82" height="100" frameX="-76" frameY="-98" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="frame0009" x="0" y="256"  width="84" height="150" frameX="-82" frameY="-64" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="frame0010" x="0" y="0"  width="256" height="256" frameX="-0" frameY="-0" frameWidth="256" frameHeight="256"/>
+</TextureAtlas>

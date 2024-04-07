@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "firstDeath",
+			"fps": 12,
+			"name": "frame",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "deathLoop",
+			"indices": [10],
+			"name": "frame"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "deathConfirm",
+			"indices": [10],
+			"name": "frame"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mighty32xdies",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "mighty",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		11,
+		0
+	],
+	"camera_position": [
+		450,
+		-300
+	],
+	"sing_duration": 6.1,
+	"scale": 4
+}

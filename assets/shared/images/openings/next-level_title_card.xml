@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="next-level_title_card.png" width="4096" height="2048">
+  <SubTexture name="next-level_title_card (2).gif" x="0" y="956"  width="640" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (3).gif" x="0" y="1434"  width="640" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (4).gif" x="640" y="478"  width="640" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (5).gif" x="640" y="956"  width="640" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (6).gif" x="640" y="1434"  width="640" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (7).gif" x="1280" y="0"  width="640" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (8).gif" x="1280" y="478"  width="640" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (9).gif" x="1280" y="956"  width="640" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (10).gif" x="0" y="0"  width="640" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (11).gif" x="0" y="478"  width="640" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (12).gif" x="1920" y="0"  width="544" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (13).gif" x="1920" y="478"  width="544" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (14).gif" x="1920" y="956"  width="544" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (15).gif" x="2386" y="1434"  width="544" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (16).gif" x="1840" y="1434"  width="546" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (17).gif" x="1280" y="1434"  width="560" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (18).gif" x="2930" y="0"  width="640" height="370" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (19).gif" x="2930" y="370"  width="640" height="368" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (20).gif" x="3008" y="738"  width="544" height="368" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (21).gif" x="3552" y="738"  width="544" height="368" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (22).gif" x="0" y="1912"  width="400" height="112" frameX="-0" frameY="-256" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (23).gif" x="3552" y="1106"  width="544" height="368" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (24).gif" x="2464" y="738"  width="544" height="370" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (25).gif" x="400" y="1912"  width="406" height="100" frameX="-0" frameY="-262" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (26).gif" x="806" y="1912"  width="432" height="48" frameX="-0" frameY="-288" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (27).gif" x="0" y="2038"  width="484" height="10" frameX="-0" frameY="-306" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (28).gif" x="0" y="2024"  width="472" height="14" frameX="-0" frameY="-304" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (29).gif" x="472" y="2012"  width="416" height="14" frameX="-0" frameY="-304" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (30).gif" x="484" y="2026"  width="416" height="14" frameX="-0" frameY="-304" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (31).gif" x="900" y="2012"  width="160" height="14" frameX="-0" frameY="-304" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (32).gif" x="400" y="2012"  width="32" height="10" frameX="-0" frameY="-306" frameWidth="640" frameHeight="478"/>
+  <SubTexture name="next-level_title_card (33).gif" x="640" y="0"  width="640" height="478" frameX="-0" frameY="-0" frameWidth="640" frameHeight="478"/>
+</TextureAtlas>

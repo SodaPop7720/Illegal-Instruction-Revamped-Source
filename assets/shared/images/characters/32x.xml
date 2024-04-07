@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="32x.png" width="888" height="1808">
+  <SubTexture name="32xup0000" x="0" y="0"  width="272" height="336" frameX="-64" frameY="-40" frameWidth="504" frameHeight="488"/>
+  <SubTexture name="32xup0001" x="0" y="336"  width="272" height="320" frameX="-80" frameY="-56" frameWidth="504" frameHeight="488"/>
+  <SubTexture name="32xright0000" x="0" y="656"  width="336" height="288" frameX="-40" frameY="-88" frameWidth="504" frameHeight="488"/>
+  <SubTexture name="32xright0001" x="272" y="0"  width="304" height="288" frameX="-56" frameY="-88" frameWidth="504" frameHeight="488"/>
+  <SubTexture name="32xleft0000" x="272" y="288"  width="296" height="288" frameX="-88" frameY="-96" frameWidth="504" frameHeight="488"/>
+  <SubTexture name="32xleft0001" x="0" y="1520"  width="272" height="288" frameX="-112" frameY="-96" frameWidth="504" frameHeight="488"/>
+  <SubTexture name="32xidle0000" x="336" y="576"  width="272" height="280" frameX="-120" frameY="-96" frameWidth="504" frameHeight="488"/>
+  <SubTexture name="32xidle0001" x="272" y="944"  width="264" height="288" frameX="-112" frameY="-88" frameWidth="504" frameHeight="488"/>
+  <SubTexture name="32xidle0002" x="0" y="944"  width="272" height="288" frameX="-112" frameY="-88" frameWidth="504" frameHeight="488"/>
+  <SubTexture name="32xidle0003" x="0" y="1232"  width="272" height="288" frameX="-112" frameY="-88" frameWidth="504" frameHeight="488"/>
+  <SubTexture name="32xdown0000" x="608" y="0"  width="280" height="256" frameX="-96" frameY="-120" frameWidth="504" frameHeight="488"/>
+  <SubTexture name="32xdown0001" x="568" y="288"  width="248" height="280" frameX="-112" frameY="-96" frameWidth="504" frameHeight="488"/>
+</TextureAtlas>

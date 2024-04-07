@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="32xbg.png" width="512" height="1536">
+  <SubTexture name="frame0000" x="0" y="0"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+  <SubTexture name="frame0001" x="0" y="512"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+  <SubTexture name="frame0002" x="0" y="1024"  width="512" height="512" frameX="-0" frameY="-0" frameWidth="512" frameHeight="512"/>
+</TextureAtlas>
