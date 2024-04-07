@@ -83,7 +83,7 @@ class CreditsState extends MusicBeatState
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['II Revamped Team'],
 			['Void999', 'void', 'Do you love my game? Illgeal Instructions:Revamped my game? Do you love my game?',	'https://twitter.com/Void999101', 'FF0000'],
-			['Hazy Is Dead', 'null', 'Samkvæmt öllum þekktum lögum um flug...', 'https://twitter.com/hazy_is_dead', 'FF0000'],
+			['Hazy Is Dead', 'hazy', 'Samkvæmt öllum þekktum lögum um flug...', 'https://twitter.com/hazy_is_dead', 'FF0000'],
 			['Phantasm_', 'phantasm', 'i am the yokai impregnator :smiling_imp:', 'https://twitter.com/Moaimanlmao', 'FF0000'],
 			['Lea_TheHedgehog', 'lea', 'Artist logo', 'https://twitter.com/Visiteur_Zero', 'FF0000'],
 			['Spookynova', 'null', 'Placeholder Text', 'https://twitter.com/Spoogynova', 'FF0000'],
@@ -92,7 +92,7 @@ class CreditsState extends MusicBeatState
 			['Waffle', 'waffle', 'Desert eagle with a switch', 'https://twitter.com/wafflehehehaha', 'FF0000'],
 			['SodaPop7720', 'soda', 'Idk what to put here i carried the mod lol', 'https://twitter.com/SodaPop7720', 'FF0000'],
 			['T-Bar', 't-bar', 'I also helped with programming with Soda \n(GUH!?)', 'https://www.youtube.com/@tbar7460', 'FF0000'],
-			['Landy', 'null', 'The big sandwich', 'https://twitter.com/LandyRS', 'FF0000'],
+			['Landy', 'landy', 'The big sandwich', 'https://twitter.com/LandyRS', 'FF0000'],
 			['The II Team', 'ii', 'Yall made this possible, thanks', '', 'FF0000']
 		];
 		
